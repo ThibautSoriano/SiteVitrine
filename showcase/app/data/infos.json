@@ -1,0 +1,38 @@
+{
+  "prenom": "Thibaut",
+  "nom": "SORIANO",
+  "email": "st405262@etu.unice.fr",
+  "age": 20,
+  "dateDeNaissance": "13/04/1994",
+  "adresse": "475 rue Evariste Galois 06410 Biot",
+  "telephonePortable": "06 80 37 24 49",
+
+	"experience" :
+		[{
+			"type" : "stage",
+			"annee" : 2014,
+			"duree" : 2,
+			"entreprise" : "Centre Hospitalier des Vals d'Ardèche",
+			"mission" : "Développement de deux applications permettant la mise à jour à distance d'un logiciel client lourd, et leur gestion"
+		}],
+
+	"formation" :
+		[{
+      "debut" : 2011,
+      "fin" : 2012,
+      "etablissement" : "Lycée Sacré Coeur - Privas",
+      "diplome" : "Baccalaureat Scientifique option SVT spécialité mathématiques - mention BIEN"
+    },
+      {
+			"debut" : 2012,
+			"fin" : 2014,
+			"etablissement" : "IUT Valence",
+			"diplome" : "DUT informatique"
+		},
+      {
+        "debut" : 2014,
+        "fin" : 2015,
+        "etablissement" : "Polytech'Nice Sophia",
+        "diplome" : "SI3"
+      }]
+}
